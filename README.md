@@ -1,4 +1,4 @@
-## Actividad - Trabajando con Dataframes de Pandas
+## Actividad - Modelo de Examen Parcial Python
 
 ### Requisitos
 
